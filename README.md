@@ -30,4 +30,4 @@ ML Developer/Engineer based in Lahore, Pakistan — BS Computer Science graduate
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/ali591195) · [Hugging Face](https://huggingface.co/ali591195) · Email: ali.zahid3428@gmail.com
+[LinkedIn]([https://linkedin.com/in/ali591195](https://www.linkedin.com/in/ali-hassan-483977245/)) · [Hugging Face](https://huggingface.co/ali591195) · Email: ali.zahid3428@gmail.com
